@@ -4,6 +4,7 @@ import './App.scss';
 
 const App = () => (
   <div className="app">
+    pushed by dev
     <Navbar />
     <Header />
     <About />
